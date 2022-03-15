@@ -21,7 +21,7 @@ This website is a html and CSS coding challenge from Udemy's 2022 Coding Bootcam
 
 ### Screenshot
 
-![](./design/My Site.jpg)
+![](./design/my-site.jpg)
 
 ## My process
 
